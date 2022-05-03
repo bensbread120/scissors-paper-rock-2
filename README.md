@@ -22,3 +22,14 @@ Use prompt() to get input from the user. Read the docs here if you need to.
 Feel free to re-work your previous functions if you need to. Specifically, you might want to change the return value to something more useful.
 
 Feel free to create more “helper” functions if you think it would be useful.
+
+Pseudocode:
+
+ask player if they would like to play scissors, paper rock,
+if so, prompt player to select scissors paper or rock,
+use random generator to have computer select scissors paper or rock,
+compare the two selected values,
+determine which values indicate winner and which values indicate loser for the player,
+display result to player,
+ask player if they would like to play again,
+if so loop back to the start of the code.
